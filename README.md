@@ -21,8 +21,8 @@ An automated, end-to-end pipeline that takes a single text topic and generates a
 
 ## 📋 Prerequisites
 - Python 3.8+
-- [Groq API Key](https://console.groq.com/)
-- [Pexels API Key](https://www.pexels.com/api/)
+- [Groq API Key](#)
+- [Pexels API Key](#)
 
 ## ⚙️ Installation
 
