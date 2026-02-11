@@ -19,10 +19,7 @@ An automated, end-to-end pipeline that takes a single text topic and generates a
 - **Stock Media**: Pexels API
 - **Video Processing**: MoviePy
 
-## 📋 Prerequisites
-- Python 3.8+
-- [Groq API Key](#)
-- [Pexels API Key](#)
+
 
 ## ⚙️ Installation
 
