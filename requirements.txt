@@ -1,0 +1,8 @@
+streamlit
+groq
+edge-tts
+pexels-api
+moviepy<2.0.0
+python-dotenv
+asyncio
+requests
